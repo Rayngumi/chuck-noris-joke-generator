@@ -1,4 +1,6 @@
-document.getElementById('getJokeBtn').addEventListener('click', getChuckNorrisJoke);
+document.addEventListener('DOMContentLoaded', function () {
+  document.getElementById('getJokeBtn').addEventListener('click', getChuckNorrisJoke);
+});
 
 function getChuckNorrisJoke() {
   fetch('https://api.chucknorris.io/jokes/random')
