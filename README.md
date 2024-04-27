@@ -36,7 +36,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Feedback and Contributions
 
-Feedback and contributions are welcome! If you have any suggestions for improvement or would like to contribute to the project, please submit a pull request or contact [your email] for more information.
+Feedback and contributions are welcome! If you have any suggestions for improvement or would like to contribute to the project, please submit a pull request or contact <rayngumi25@gmail.com> for more information.
 
 ## Acknowledgements
 
