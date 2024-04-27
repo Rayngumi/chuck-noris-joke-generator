@@ -15,6 +15,10 @@ This is a simple Chuck Norris Joke Generator web application. With just a click 
 - Simple and intuitive interface.
 - Responsive design for use on various devices.
 
+# Live Link
+
+<https://rayngumi.github.io/chuck-noris-joke-generator>
+
 ## Technologies Used
 
 - HTML
